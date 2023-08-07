@@ -57,3 +57,4 @@ jobs:
           body: new release for ${{ github.sha}}
           draft: false
           prerelease: false
+          
